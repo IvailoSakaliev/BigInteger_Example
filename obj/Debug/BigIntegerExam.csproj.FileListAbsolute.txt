@@ -1,0 +1,6 @@
+C:\Users\ivo\Desktop\BigInteger\BigIntegerExam\bin\Debug\BigIntegerExam.exe.config
+C:\Users\ivo\Desktop\BigInteger\BigIntegerExam\obj\Debug\BigIntegerExam.csprojResolveAssemblyReference.cache
+C:\Users\ivo\Desktop\BigInteger\BigIntegerExam\bin\Debug\BigIntegerExam.exe
+C:\Users\ivo\Desktop\BigInteger\BigIntegerExam\bin\Debug\BigIntegerExam.pdb
+C:\Users\ivo\Desktop\BigInteger\BigIntegerExam\obj\Debug\BigIntegerExam.exe
+C:\Users\ivo\Desktop\BigInteger\BigIntegerExam\obj\Debug\BigIntegerExam.pdb
